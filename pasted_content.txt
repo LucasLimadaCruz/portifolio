@@ -1,0 +1,132 @@
+ "cv": {
+          "metadata": {
+            "version": "1.0",
+            "language": "pt-BR",
+            "lastUpdated": "2026-11-05"
+          },
+          "personalInformation": {
+            "fullName": "Lucas Lima Da Cruz",
+            "professionalTitle": "",
+            "profilePhoto": "",
+            "email": "Lucaslimadacruz57@gmail.com",
+            "phone": "(11)96344-4638",
+            "whatsapp": "(11)96344-4638",
+            "location": {
+              "city": "Suzano",
+              "state": "São Paulo",
+              "country": "Brasil",
+              "address": "Rua Alma Cabocla, Vila Urupês", 
+              "Number": 572", 
+              "Cep": "08615-040",
+
+            },
+            "linkedin": "",
+            "github": "LucasLimadaCruz",
+            "portfolio": "",
+            "website": "https://github.com/LucasLimadaCruz"
+          },
+          "professionalSummary": {
+            "description": "Eu sou um programador junior, procurando sempre se aprimorar e aprender mais",
+            "yearsOfExperience": 1,
+            "mainSpecialization": "web",
+            "careerObjective": "CiberSegurança"
+          },
+          "professionalExperience": [
+            {
+              "company": "",
+              "position": "",
+              "employmentType": "",
+              "location": "",
+              "startDate": "",
+              "endDate": "",
+              "current": false,
+              "description": "",
+              "responsibilities": [],
+              "achievements": [],
+              "technologies": []
+            }
+          ],
+          "education": [
+            {
+              "institution": "Obra-social Dom Bosco",
+              "degree": "",
+              "fieldOfStudy": "Programador de Sistemas",
+              "level": "Basico",
+              "startDate": "01/08/2022",
+              "endDate": "23/12/2022",
+              "current": false,
+              "description": " Desenvolver páginas e sites na web, elaborar layouts estruturais, testar e fazer manutenção em sistemas de banco de dados, seguindo padrões de qualidade e segurança da informação."
+            }
+            {
+            "institution": "Unipiaget",
+              "degree": "Ensino Superior",
+              "fieldOfStudy": "Analise e Desenvolvimentos de sistemas",
+              "level": "",
+              "startDate": "10/02/2026",
+              "endDate": "01/05/2028",
+              "current": "Cursando",
+              "description":
+            }  
+          ],
+          "skills": {
+            "technical": [
+              {
+                "name": "",
+                "level": ""
+              }
+            ],
+            "behavioral": [],
+            "tools": [],
+            "methodologies": []
+          },
+          "languages": [
+            {
+              "name": "",
+              "proficiency": ""
+            }
+          ],
+          "certifications": [
+            {
+              "name": "",
+              "issuer": "",
+              "issueDate": "",
+              "expirationDate": "",
+              "credentialUrl": ""
+            }
+          ],
+          "projects": [
+            {
+              "name": "",
+              "description": "",
+              "role": "",
+              "technologies": [],
+              "url": "",
+              "startDate": "",
+              "endDate": ""
+            }
+          ],
+          "courses": [
+            {
+              "name": "",
+              "institution": "",
+              "completionDate": "",
+              "workloadHours": 0
+            }
+          ],
+          "additionalInformation": {
+            "availability": "",
+            "workModel": "",
+            "travelAvailability": false,
+            "additionalNotes": ""
+          },
+          "preferences": {
+            "targetPositions": [],
+            "targetIndustries": [],
+            "preferredLocations": [],
+            "preferredWorkModel": ""
+          }
+        }
+      }
+      <a href="https://wa.me/5511963444638&quot; target="_blank">
+        Fale conosco no WhatsApp
+        </a>
